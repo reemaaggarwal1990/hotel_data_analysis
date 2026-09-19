@@ -25,9 +25,12 @@ Studied monthly revenue trends.
 Examined revenue generated through different booking platforms.
 
 **Skills Learned**
-Python Programming: Improved my understanding of Python for data cleaning, transformation, analysis, and visualization.
 
-Data Visualization: Used the Matplotlib library to create different charts and visualizations.
+**Python Programming:** Improved my understanding of Python for data cleaning, transformation, analysis, and visualization.
+
+
+**Data Visualization:** Used the Matplotlib library to create different charts and visualizations.
+
 
 Pandas: Worked with DataFrames, grouping and aggregation, concatenation, merging datasets, handling missing values, and reading CSV files.
 
