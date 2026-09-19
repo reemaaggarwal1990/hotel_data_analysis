@@ -32,5 +32,5 @@ Examined revenue generated through different booking platforms.
 **Data Visualization:** Used the Matplotlib library to create different charts and visualizations.
 
 
-Pandas: Worked with DataFrames, grouping and aggregation, concatenation, merging datasets, handling missing values, and reading CSV files.
+**Pandas:** Worked with DataFrames, grouping and aggregation, concatenation, merging datasets, handling missing values, and reading CSV files.
 
